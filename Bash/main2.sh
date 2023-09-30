@@ -1,7 +1,5 @@
 #! /bin/bash
 
-path="/hdfs/data/data1"
-name_of_directory="data1"
 filename_excel="daily_market_price.xlsx"
 source_dir="/local/data/market"
 target_dir="$path/$name_of_directory"
